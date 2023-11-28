@@ -1,9 +1,27 @@
-# Stanford NLP faculty.
-Tatsunori B. Hashimoto, 3056528
-Tatsunori Hashimoto, 2117567142
-Percy Liang, 145419642
-Dan Jurafsky, 1746807
-Christopher D. Manning, 144783904
-Chris Potts, 1741530
-Diyi Yang, 2022168
-Monica Lam, 39682108
+# Copy me to authors.txt and replace the authors below with people you actually want to follow
+# the numbers behind the author are important - these are semantic scholar author IDs which you can find by looking up the authors on semantic scholar and taking the numbers at the end of the URL
+# Example line:
+Alessandro Chiesa, 3275651
+S. Goldwasser, 1706681
+Oded Goldreich, 1707322
+S. Micali, 1689467
+G. Rothblum, 2551824
+A. Wigderson, 1718867
+Craig Gentry, 145310230
+A. Shamir, 1706216
+D. Boneh, 1752788
+R. Canetti, 1749530
+N. Spooner, 2422756
+R. Rothblum, 1768059
+Nir Bitansky, 3142333
+A. Sahai, 1695851
+Brent Waters, 145778768
+Jonathan Katz, 143975296
+Yehuda Lindell, 1682750
+M. Naor, 1693267
+J. Thaler, 32523323
+V. Vaikuntanathan, 1749858
+Zvika Brakerski, 1780678
+Kai-Min Chung, 40357578
+B. Applebaum, 1748330
+R. Pass, 1811683
