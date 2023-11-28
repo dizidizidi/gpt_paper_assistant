@@ -1,9 +1,9 @@
  # this file goes into the prompt to tell the bot your interest areas. you can write down your interests in whatever format you want
  # they can be simple, like a one line description like
- 1. Relates to cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
+ 1. Relates to cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. 
  # or in the case of more general areas like `instruction-following`, you might want to give examples
- 2. Relates to proof systems such as PCP, IOP, and argument systems, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
- 3. Relates to quantum cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
- 4. Applies complexity theory to cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
- 5. Relates to computational complexity, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
- 5. Relates to coding theory and has applications in cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. Less relates to cryptanalysis and security attacks.
+ 2. Relates to proof systems such as PCP, IOP, and argument systems, but not relates to ML, AI, ChatGPT, CV and NLP. 
+ 3. Relates to quantum cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. 
+ 4. Applies complexity theory to cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. 
+ 5. Relates to computational complexity, but not relates to ML, AI, ChatGPT, CV and NLP. 
+ 5. Relates to coding theory and has applications in cryptography, but not relates to ML, AI, ChatGPT, CV and NLP. 
